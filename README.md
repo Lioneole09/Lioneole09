@@ -1,8 +1,6 @@
 ## Hello World! i'm ABDUL KATSIR 👋
 
-![welcome](https://media4.giphy.com/media/HLbHNDXETGwEsleYwP/giphy.gif?cid=6c09b9522e5938o3zgo7hd4wwvezrk6say7xpqbp1uo456i7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
-<!--
-**Lioneole09/Lioneole09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github-header-image (1)](https://github.com/user-attachments/assets/5f3d7b38-6aa5-40bb-b31e-9b20f470ab62)
 
 Here are some ideas to get you started:
 
