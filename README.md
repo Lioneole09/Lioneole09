@@ -1,6 +1,6 @@
 ## Hello World! i'm ABDUL KATSIR 👋
 
-!{https://phoneky.co.uk/thumbs/screensavers/down/cartoon-anime/welcome_318vee9o.gif}
+![welcome](https://phoneky.co.uk/thumbs/screensavers/down/cartoon-anime/welcome_318vee9o.gif)
 <!--
 **Lioneole09/Lioneole09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
