@@ -11,3 +11,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Lioneole09/Lioneole09/output/snake.svg" alt="Snake animation" />
+
+###
