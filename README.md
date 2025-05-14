@@ -1,4 +1,3 @@
-## Hello World! i'm ABDUL KATSIR 👋
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/5f3d7b38-6aa5-40bb-b31e-9b20f470ab62)
 
