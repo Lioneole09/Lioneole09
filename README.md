@@ -1,5 +1,6 @@
 
-![github-header-image (2)](https://github.com/user-attachments/assets/9ea1e938-7634-4a21-b0cf-3b209f041542)
+![Desain tanpa judul](https://github.com/user-attachments/assets/a52a9985-71d8-40d0-b688-9fff3aba4400)
+
 
 ##### Skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,cpp,bootstrap,tailwind)](https://skillicons.dev)
